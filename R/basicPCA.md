@@ -1,3 +1,6 @@
+# Basic PCA Analysis for Morphometric Data
+
+````
 ## Load geomorph package
 
 library(geomorph)
@@ -27,3 +30,4 @@ specimenlist <- read.csv("specimenlist.csv", header = TRUE)
 plotTangentSpace(arcsGPA$coords, 
                  groups = specimenlist$Species,
                  legend = TRUE)
+````
