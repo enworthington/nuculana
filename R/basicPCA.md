@@ -103,3 +103,4 @@ plotTangentSpace(arcsGPA$coords,
                  groups = specimenlist$Species,
                  legend = TRUE)
 ````
+![arcsPlot](/Plots/arcsPlot.pdf)
