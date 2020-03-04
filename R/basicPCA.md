@@ -104,3 +104,5 @@ plotTangentSpace(arcsGPA$coords,
                  legend = TRUE)
 ````
 ![arcsPlot](/Plots/arcsPlot.png)
+
+As you can see from the plot, we haven't gotten any useful info from this, but it's a good first step!
