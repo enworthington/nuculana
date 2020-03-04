@@ -1,6 +1,6 @@
 # Basic PCA Analysis for Morphometric Data
 
-````
+````r
 ## Load geomorph package
 
 library(geomorph)
